@@ -3,7 +3,6 @@
 
 # ## Connection
 
-# In[1]:
 
 
 import pyodbc
