@@ -4,7 +4,6 @@
 # ## Connection
 
 
-
 import pyodbc
 
 driver="SQL Server"
